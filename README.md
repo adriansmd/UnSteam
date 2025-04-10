@@ -2,7 +2,7 @@ UnSteam Version 1
 
 HOW TO USE:
 Enter the directory where the Steam dll files of your game are located.
-Press "UNSTEAM"
+Press "UNSTEAM".
 
 WARNING:
 UnSteam replaces steam_api.dll and steam_api64.dll with modified files by Goldberg Steam Emulator.
